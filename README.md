@@ -84,35 +84,35 @@ Welcome to NumPy Analyzer
 
 ## 1️⃣ Project Overview
 
-![Screenshot 1](images/1.png)
+![Screenshot 1](1.png)
 
 ## 2️⃣ Array Creation
 
-![Screenshot 2](images/2.png)
+![Screenshot 2](2.png)
 
 ## 3️⃣ Indexing and Slicing
 
-![Screenshot 3](images/3.png)
+![Screenshot 3](3.png)
 
 ## 4️⃣ Mathematical Operations
 
-![Screenshot 4](images/4.png)
+![Screenshot 4](4.png)
 
 ## 5️⃣ Combine or Split Arrays
 
-![Screenshot 5](images/5.png)
+![Screenshot 5](5.png)
 
 ## 6️⃣ Search, Sort, and Filter
 
-![Screenshot 6](images/6.png)
+![Screenshot 6](6.png)
 
 ## 7️⃣ Aggregates and Statistics
 
-![Screenshot 7](images/7.png)
+![Screenshot 7](7.png)
 
 ## 8️⃣ Final Output / Program Exit
 
-![Screenshot 8](images/8.png)
+![Screenshot 8](8.png)
 
 ---
 
@@ -204,3 +204,4 @@ Python Data Analysis Project
 # ⭐ Acknowledgement
 
 This project was developed as part of a **Python Data Analysis and NumPy learning module** to demonstrate practical understanding of Python programming and data processing techniques.
+
